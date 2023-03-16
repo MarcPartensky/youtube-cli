@@ -8,6 +8,7 @@ packages = [{include = "youtube_cli"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+google-api-python-client = "^2.81.0"
 
 
 [build-system]
